@@ -13,6 +13,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"school\\curriculum\\": "src"}
+        "psr-4": {"School\\Curriculum\\": "src"}
     }
 }
